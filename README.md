@@ -45,10 +45,10 @@ Health360 is a user-friendly fitness web application designed to guide one's jou
 - Keep your profile information updated to track your health progress.
 
 ## Output SC
-![Output](https://github.com/Aravind207/Health360/blob/main/pic1.png)
-![Output](https://github.com/Aravind207/Health360/blob/main/pic2.png)
-![Output](https://github.com/Aravind207/Health360/blob/main/pic3.png)
-![Output](https://github.com/Aravind207/Health360/blob/main/pic4.png)
-![Output](https://github.com/Aravind207/Health360/blob/main/pic5.png)
-![Output](https://github.com/Aravind207/Health360/blob/main/pic6.png)
-![Output](https://github.com/Aravind207/Health360/blob/main/pic7.png)
+![Output1](https://github.com/Aravind207/Health360/blob/main/pic1.png)
+![Output2](https://github.com/Aravind207/Health360/blob/main/pic2.png)
+![Output3](https://github.com/Aravind207/Health360/blob/main/pic3.png)
+![Output4](https://github.com/Aravind207/Health360/blob/main/pic4.png)
+![Output5](https://github.com/Aravind207/Health360/blob/main/pic5.png)
+![Output6](https://github.com/Aravind207/Health360/blob/main/pic6.png)
+![Output7](https://github.com/Aravind207/Health360/blob/main/pic7.png)
