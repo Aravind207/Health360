@@ -6,6 +6,7 @@ Health360 is a user-friendly fitness web application designed to guide one's jou
 ## Object Model
 
 ![Object Model](https://github.com/info-6150-fall-2023/final-project-flexbox-forces/blob/main/Health360%20ObjectModel.jpg)
+![Object Model](https://github.com/info-6150-fall-2023/final-project-flexbox-forces/blob/main/Health360%20Pic1.png)
 
 
 ## Features
