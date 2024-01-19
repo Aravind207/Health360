@@ -6,7 +6,7 @@ Health360 is a user-friendly fitness web application designed to guide one's jou
 ## Object Model
 
 ![Object Model](https://github.com/info-6150-fall-2023/final-project-flexbox-forces/blob/main/Health360%20ObjectModel.jpg)
-![Object Model](https://github.com/info-6150-fall-2023/final-project-flexbox-forces/blob/main/Health360%20Pic1.png)
+
 
 
 ## Features
@@ -43,3 +43,12 @@ Health360 is a user-friendly fitness web application designed to guide one's jou
 - Use the different sections to log your daily food intake, workout details, and share your fitness journey through blogs.
 - Explore and choose workout and diet plans based on your fitness goals.
 - Keep your profile information updated to track your health progress.
+
+## Output SC
+![Output](https://github.com/Aravind207/Health360/blob/main/pic1.png)
+![Output](https://github.com/Aravind207/Health360/blob/main/pic2.png)
+![Output](https://github.com/Aravind207/Health360/blob/main/pic3.png)
+![Output](https://github.com/Aravind207/Health360/blob/main/pic4.png)
+![Output](https://github.com/Aravind207/Health360/blob/main/pic5.png)
+![Output](https://github.com/Aravind207/Health360/blob/main/pic6.png)
+![Output](https://github.com/Aravind207/Health360/blob/main/pic7.png)
